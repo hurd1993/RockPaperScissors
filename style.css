@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+#title {
+	text-align: center;
+}
+
+#score {
+	margin-left: 475px;
+	margin-right: 910px;
+}
+
+#boxingRing {
+	margin-left: 450px;
+}
+
+
